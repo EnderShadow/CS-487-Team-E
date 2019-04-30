@@ -1,10 +1,7 @@
-import cs487.prototype.Database
-import cs487.prototype.SendableClass
-import cs487.prototype.User
-import cs487.prototype.gson
+package cs487.prototype
+
 import io.ktor.application.*
 import io.ktor.http.*
-import io.ktor.request.receive
 import io.ktor.request.receiveParameters
 import io.ktor.response.*
 import io.ktor.routing.*
